@@ -7,7 +7,9 @@ This page showcases the final projects for the EE599 Course (Computing and Softw
 
 # Contributors:
 
- <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_FALL2020_Final_Project/master/1.png" width="400"> | <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_FALL2020_Final_Project/master/2.png" width="400"> 
+ <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_FALL2020_Final_Project/master/1.png" width="400"> | 
+ <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_FALL2020_Final_Project/master/2.png" width="400"> |
+ <img alt="Backend" src="https://raw.githubusercontent.com/ourarash/EE599_FALL2020_Final_Project/master/3.png" width="400"> 
 
 
 
