@@ -22,4 +22,8 @@ This page showcases the final projects for the EE599 Course (Computing and Softw
 |Trojan Map Application |  [Tao Zheng](https://www.linkedin.com/in/tao-zheng-19950221/) | Using data structures and graph search algorithms to build a mapping application | [YouTube](https://www.youtube.com/watch?v=9djaSBBj1jg&t=22s)|[Github](https://github.com/ee599-20203/final-project-Eric-Zheng29) |
 |Travelling Trojan | [Rohit Kumar Singh](https://www.linkedin.com/in/rohit-usc21/), [Kunal Seth](https://www.linkedin.com/in/kunalsheth03/) |Traversing between Random Points using Travelling Salesman Algorithm and 2-OPT Heuristics as well as finding shortest distance between two points in the DSP patroled areas surrounding USC | [YouTube]()|[Github]() |
 Traveling Trojan Map (CoreDump) | [Folk W Narongrit](https://www.linkedin.com/in/folkn) | A mapping and shortest-path navigation program using graph search algorithms and data structures | [YouTube](https://www.youtube.com/watch?v=or0yzBV4EQA&feature=youtu.be) | [Github](https://github.com/folkn/mapping-project/) |
+|  [Anu Nair](https://www.linkedin.com/in/anu-nair-682a48105/)| Map traversal application using Dijkstra's, 2-Opt and 3-Opt graph search algorithms. | [YouTube](https://www.youtube.com/watch?v=_PdDUiKylp4)|[Github](https://github.com/ee599-20203/final-project-anunair0294) |
+
+
+
 
